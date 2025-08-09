@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain_community
+langgraph
+pypdf
+pydantic
+python-dotenv
+python-docx
+faiss-cpu
+docx2txt
