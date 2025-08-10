@@ -15,7 +15,20 @@ The **Personal Wellness Agent** is an AI-powered tool designed to provide person
 ---
 
 ## Project Structure
+```
 
+├── Main.py
+├── README.md
+├── requirements.txt
+├── .env
+│
+└── Src/
+    ├── __init__.py
+    ├── models.py
+    ├── prompts.py
+    └── workflow.py
+
+```
 
 ---
 
