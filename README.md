@@ -1,6 +1,6 @@
 # RAG AI Agent
 
-## Elevator Pitch
+## About
 The RAG AI Agent is an advanced Retrieval-Augmented Generation (RAG) application designed to provide accurate, context-aware, and efficient responses by combining the power of large language models with external knowledge retrieval. Whether you're tackling complex data queries, automating workflows, or enhancing decision-making, the RAG AI Agent ensures precision and reliability.
 
 ## Key Features
